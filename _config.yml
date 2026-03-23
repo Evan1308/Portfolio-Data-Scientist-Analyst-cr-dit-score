@@ -11,7 +11,7 @@ url: ""
 
 # Logo et téléchargements
 logo: img/Evan pro.jpg
-show_downloads: false
+show_downloads: true
 
 # Navigation
 nav_links:
