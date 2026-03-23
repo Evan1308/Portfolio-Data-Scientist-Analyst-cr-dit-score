@@ -5,7 +5,7 @@ Je dispose de deux ans d'expérience professionnelle dans le traitement statisti
 
 Ce dépôt regroupe mes projets en analyse de données, marketing research, machine learning et en visualisation.
 
-## 📌 Expertise
+## 📌 Expertise {#expertise}
 
 -  **Modélisation de risque de survie** (Analyse de survie, courbe de Kaplan-Meier, modèle de Cox...)
 -  **Statistiques, Machine Learning & Python - R appliquée**
@@ -15,7 +15,7 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 -  **Demarches sociologiques** (Qualitative & quantitative)
 
 
-## 📁 Projets
+## 📁 Projets {#projets}
 
 ### 🔹 Prédiction du désengagement client (Churn) – Télécom
 - **Objectif** : Modéliser la probabilité de résiliation des clients et prédire les profils d'un potentiel retour sur investissement. 
@@ -57,7 +57,7 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 - **Formation complémentaire** : Étude de marché quantitative en ligne (Udemy)  
 
 
-## 📫 Contact
+## 📫 Contact {#contact}
 
 - **Email** : evanjenny.mata@gmail.com  
 - **LinkedIn** : [linkedin.com/in/evan-mata](#)
