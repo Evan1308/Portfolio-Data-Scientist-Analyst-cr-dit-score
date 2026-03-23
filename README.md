@@ -1,6 +1,6 @@
 # 📊 Evan Mata
 
-Je suis Evan Mata, **Data Analyst, chargé de traitement statistique, chargé d’études marketing et futur analyst quantitatif risk  (en formation). 
+Je suis Evan Mata, **Data Analyst, chargé de traitement statistique, chargé d’études marketing et futur analyst quantitatif risk  (en formation)**.   
 Je dispose de deux ans d'expérience professionnelle dans le traitement statistique d'études de marché en production.
 
 Ce dépôt regroupe mes projets en analyse de données, marketing research, machine learning et en visualisation.
