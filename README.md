@@ -1,4 +1,4 @@
-# 📊 Evan Mata – Portfolio Data Analyst & Data Scientist
+# 📊 Evan Mata
 
 ** Data analyst CNAM | Chargé de traitement statistique | Chargé d'études marketing **
 
