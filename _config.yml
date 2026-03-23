@@ -5,11 +5,11 @@ plugins:
 
 # Informations générales
 title: Evan Mata
-description: "Portfolio Data Analyst, Chargé d'études quantitatives"
-baseurl: ""
-url: ""
+description: "Data Analyst, Chargé d'études quantitatives, Ex CSA / HAVAS MEDIA"
+baseurl: "/Portfolio-Data-Scientist-Analyst-cr-dit-score"
+url: "https://evan1308.github.io"
 
-# Logo et téléchargements
+# Logo
 logo: img/Evan pro.jpg
 show_downloads: false
 
@@ -18,28 +18,29 @@ nav_links:
   - title: Accueil
     url: /
   - title: Projets
-    url: /projets
-  - title: Expérience
-    url: /experience
+    url: /#projets
+  - title: Expertise
+    url: /#expertise
   - title: Contact
-    url: /contact
+    url: /#contact
 
-# Pied de page personnalisé
+# Pied de page
 footer:
-  copyright: "© 2026 Evan Mata - Portfolio Data"
+  copyright: "© 2026 Evan Mata - Portfolio Data | Ex-CSA / HAVAS MEDIA"
   social:
     - platform: linkedin
       url: "https://linkedin.com/in/evan-mata"
       icon: "linkedin"
     - platform: github
-      url: "https://github.com/evanmata"
+      url: "https://github.com/evan1308"
       icon: "github"
     - platform: email
       url: "mailto:evanjenny.mata@gmail.com"
       icon: "envelope"
 
-# Désactiver les éléments indésirables du thème minimal
 google_analytics: ""
+
+# Désactiver les éléments par défaut
 github:
   is_project_page: false
   repository_url: ""
@@ -50,8 +51,3 @@ defaults:
       path: ""
     values:
       layout: default
-  - scope:
-      path: "projets"
-    values:
-      layout: projects
-      title: "Mes projets Data"
