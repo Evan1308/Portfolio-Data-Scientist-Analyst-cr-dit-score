@@ -6,8 +6,6 @@ Bienvenue sur mon portfolio GitHub !
 Je suis Evan Mata, **Data Analyst / Analyst quantitative Risk (en formation)** avec 2 ans d’expérience en traitement statistique et études marketing.  
 Ce dépôt regroupe mes projets en analyse de données, marketing research, machine learning et en visualisation.
 
----
-
 ## 📌 Expertise
 
 -  **Modelisation du risque de survie** (Analyse de survie, courbe de Kaplan-Meier, modèle de Cox...)
@@ -16,8 +14,7 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 -  **Demarches qualités de données** (Le système FAIR)
 -  **Modélisation du risque de crédit** (Apprentisage en cours)
 -  **Demarches sociologiques** (Qualitative & quantitative)
--  
----
+
 
 ## 📁 Projets
 
@@ -36,7 +33,6 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 - **Méthodes** : K-means, analyse exploratoire  
 - ▶️ [Voir le projet](#)  
 
----
 
 ## 🔧 Outils & technologies
 
@@ -44,7 +40,6 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 - **BI & visualisation** : Power BI
 - **Traitement de sondage** : Harmonie
 
----
 
 ## 📌 Expérience clé
 
@@ -55,7 +50,6 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 - Respect RGPD, gestion de sous-traitance  
 - Restitution des résultats pour aide à la décision  
 
----
 
 ## 🎓 Formations
 
@@ -63,11 +57,8 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 - **Licence Sociologie et Politique Sociale** – Université de Lille (2020-2023)  
 - **Formation complémentaire** : Étude de marché quantitative en ligne (Udemy)  
 
----
 
 ## 📫 Contact
 
 - **Email** : evanjenny.mata@gmail.com  
 - **LinkedIn** : [linkedin.com/in/evan-mata](#)
-  
----
