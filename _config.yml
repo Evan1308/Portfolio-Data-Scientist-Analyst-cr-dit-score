@@ -11,7 +11,7 @@ url: ""
 
 # Logo et téléchargements
 logo: img/Evan pro.jpg
-show_downloads: true
+show_downloads: false
 
 # Navigation
 nav_links:
@@ -24,7 +24,7 @@ nav_links:
   - title: Contact
     url: /contact
 
-# Pied de page
+# Pied de page personnalisé
 footer:
   copyright: "© 2026 Evan Mata - Portfolio Data"
   social:
@@ -38,7 +38,11 @@ footer:
       url: "mailto:evanjenny.mata@gmail.com"
       icon: "envelope"
 
-google_analytics: 
+# Désactiver les éléments indésirables du thème minimal
+google_analytics: ""
+github:
+  is_project_page: false
+  repository_url: ""
 
 # Structure des pages
 defaults:
