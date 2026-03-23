@@ -5,9 +5,7 @@ plugins:
 
 # Informations générales
 title: Evan Mata
-description: "Data Analyst,"
-             "Chargé d'études quantitatives Ex CSA / HAVAS MEDIA," 
-             "Quantitative analyst credit risk (futur)"
+description: "Data Analyst, Chargé d'études quantitatives Ex CSA / HAVAS MEDIA, Quantitative analyst credit risk (futur)"
              
 baseurl: "/Portfolio-Data-Scientist-Analyst-cr-dit-score"
 url: "https://evan1308.github.io"
