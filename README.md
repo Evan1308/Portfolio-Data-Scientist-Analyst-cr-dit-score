@@ -8,8 +8,8 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 
 ## 📌 Expertise
 
--  **Modelisation du risque de survie** (Analyse de survie, courbe de Kaplan-Meier, modèle de Cox...)
--  **Satistiques, Macine Learning & Python - R appliquée**
+-  **Modélisation de risque de survie** (Analyse de survie, courbe de Kaplan-Meier, modèle de Cox...)
+-  **Statistiques, Machine Learning & Python - R appliquée**
 -  **Etude de marché quantitative** (Conception d'enquêtes, programmation, nettoyage & traitement de données, analyse, recommandation)
 -  **Demarches qualités de données** (Le système FAIR)
 -  **Modélisation du risque de crédit** (Apprentisage en cours)
@@ -19,7 +19,7 @@ Ce dépôt regroupe mes projets en analyse de données, marketing research, mach
 ## 📁 Projets
 
 ### 🔹 Prédiction du désengagement client (Churn) – Télécom
-- **Objectif** : Modéliser la probabilité de résiliation des clients et prédii les profils d'un potentiel retour sur investissement. 
+- **Objectif** : Modéliser la probabilité de résiliation des clients et prédire les profils d'un potentiel retour sur investissement. 
 - **Méthodes** : Analyse de survie
 - ▶️ [Voir le projet](#)  
 
