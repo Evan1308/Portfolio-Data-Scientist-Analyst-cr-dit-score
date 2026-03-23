@@ -1,9 +1,8 @@
 # 📊 Evan Mata
 
-** Data analyst CNAM, Chargé de traitement statistique, Chargé d'études marketing **
+Je suis Evan Mata, **Data Analyst, chargé de traitement statistique, chargé d’études marketing et futur analyst quantitatif risk  (en formation). 
+Je dispose de deux ans d'expérience professionnelle dans le traitement statistique d'études de marché en production.
 
-Bienvenue sur mon portfolio GitHub !  
-Je suis Evan Mata, **Data Analyst / Analyst quantitative Risk (en formation)** avec 2 ans d’expérience en traitement statistique et études marketing.  
 Ce dépôt regroupe mes projets en analyse de données, marketing research, machine learning et en visualisation.
 
 ## 📌 Expertise
